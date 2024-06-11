@@ -1,0 +1,118 @@
+*{
+    margin: 10px;
+    padding: 0;
+}
+
+nav{
+    background-color: white;
+    color:black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 200px;
+}
+ul{
+    display: flex;
+    list-style-type: none;}
+
+li{
+    padding: 0px 20px;
+}
+button{
+    background-color:rgb(70, 70, 119) ;
+    color: white;
+    border: 0px solid  white;
+    border-radius: 10px;
+    align-items: center;
+ padding: 10px 10px;
+}
+section{
+    display: flex;
+    justify-content: flex-start;
+    
+}
+.c1{
+    margin: 10px
+}
+.section{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 70px 50px;
+}
+.btn1{
+    background-color: rgb(198, 182, 182);
+    color: black;
+    padding: 10px 50px;
+    border:px solid black;
+    position: relative;
+    bottom:440px;
+    left:1100px;
+}
+.btn2{
+    background-color: rgb(198, 182, 182);
+    color: black;
+    padding: 10px 40px;
+    position: relative;
+    bottom:360px;
+    left:1000px;
+    z-index: -1;
+}
+.btn3{ 
+    background-color: rgb(198, 182, 182);
+    color: black;
+    padding: 10px 40px;
+    position: relative;
+    bottom:270px;
+    left:750px;
+}
+svg{
+    width:20px;
+    height: 20px;
+    background-color: aqua;
+    border-radius: 50%;
+    padding:10px 10px;
+    position: absolute;
+    bottom: 470px;
+    left: 1120px;
+} 
+.svg1{
+    width:20px;
+    height: 20px;
+    background-color: aqua;
+    border-radius: 50%;
+    padding:10px 10px;
+    position: absolute;
+    bottom: 390px;
+    left: 1200px;
+   
+}
+.svg2{
+    width:20px;
+    height: 20px;
+    background-color: aqua;
+    border-radius: 50%;
+    padding:10px 10px;
+    position: absolute;
+    bottom: 300px;
+    left: 1140px;
+}
+.BTN1{
+    background-color:rgb(70, 70, 119) ;
+    padding: 10px 10px;
+}
+.BTN2{
+    background-color: white;
+    padding: 10px 10px;
+    color:black; 
+    border:1px solid black ;
+}
+.heading>h1
+    {
+    letter-spacing: 0.3vw;
+}
+.heading{
+    height: 20vw;
+}
+.heading>c1{
+    margin-bottom: 1vw;
+}
